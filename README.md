@@ -130,6 +130,25 @@ This project empowers **AtliQ Hardware** to:
 
 ---
 
+## 🎓 Technical and Soft Skills Learned
+
+### 📌 Technical Skills
+- Power BI report development and publishing  
+- Advanced DAX for calculated columns and measures  
+- SQL data extraction and transformation for BI models  
+- Data modeling using snowflake schema  
+- Optimizing performance with DAX Studio  
+- Building interactive dashboards with bookmarks and drill-through features  
+
+### 🤝 Soft Skills
+- Business requirement gathering and KPI definition  
+- Storytelling with data for various executive roles  
+- Project planning and execution  
+- Version control with Git & GitHub  
+- Communication of technical insights to non-technical stakeholders
+
+---
+
 ## 🔍 View Interactive Power BI Report
 
 You can explore the full interactive **Business Insights 360** report here:
