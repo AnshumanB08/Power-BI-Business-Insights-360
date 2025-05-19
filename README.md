@@ -132,7 +132,7 @@ This project empowers **AtliQ Hardware** to:
 
 ## 🎓 Technical and Soft Skills Learned
 
-### 📌 Technical Skills
+### 💻 Technical Skills
 - Power BI report development and publishing  
 - Advanced DAX for calculated columns and measures  
 - SQL data extraction and transformation for BI models  
