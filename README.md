@@ -130,7 +130,7 @@ This project empowers **AtliQ Hardware** to:
 
 ---
 
-## 🎓 Technical and Soft Skills Learned
+## 🎓 Skills Learned
 
 ### 💻 Technical Skills
 - Power BI report development and publishing  
