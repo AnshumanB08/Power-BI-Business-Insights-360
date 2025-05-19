@@ -65,7 +65,8 @@ Navigation panel for different views with interactive buttons:
 - Sales View  
 - Marketing View  
 - Supply Chain View  
-- Executive View  
+- Executive View
+- Information 
 - Support
 
 ![Home View](https://github.com/AnshumanB08/Power-BI-Business-Insights-360/blob/main/Resources/Home%20View.gif)
@@ -144,5 +145,12 @@ You can explore the full interactive **Business Insights 360** report here:
 You can download the Power BI report file here:
 
 👉 [**Download BI_360 - Report.pbix**](https://github.com/AnshumanB08/Power-BI-Business-Insights-360/blob/main/Report/BI_360%20-%20Report.pbix)
+
+---
+
+## 🙌 Acknowledgements
+
+This project was developed as part of the [**Power BI Data Analytics Course**](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by **CodeBasics**.  
+Special thanks to the CodeBasics team for designing such a practical and business-oriented learning experience.
 
 ---
