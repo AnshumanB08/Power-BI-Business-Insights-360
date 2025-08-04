@@ -153,7 +153,7 @@ This project empowers **AtliQ Hardware** to:
 
 Explore the full interactive **Business Insights 360** report here:
 
-👉 [**View Interactive Report on Power BI**](https://app.powerbi.com/Redirect?action=OpenReport&appId=9db741f4-29d6-4f0e-9670-bd81a827661d&reportObjectId=0971818f-3412-43f7-9a62-20a9b8ef82aa&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&reportPage=66be1e4f63be139566b0&pbi_source=appShareLink&portalSessionId=f8a6778d-de7b-40d4-9126-bc13d90c23b6)
+👉 [**View Interactive Report on Power BI**](https://app.powerbi.com/view?r=eyJrIjoiMmExODhmYzktZTAxZC00ZWE3LTg3ZjEtMGFhMzg4ODQwOTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > ⚠️ This is a public version for demonstration purposes only. Do not upload sensitive or proprietary data using this method.
 
