@@ -1,12 +1,12 @@
 # Business Insights 360 🚀📊
 
-Power BI analytics project for **AtliQ Hardware**, a fictional consumer electronics company, to enable data-driven decision-making using modern BI tools and techniques.
+Power BI analytics project for **AtliQ Hardwares**, a fictional consumer electronics company, to enable data-driven decision-making using modern BI tools and techniques.
 
 ---
 
 ## 📌 Problem Statement
 
-**AtliQ Hardware** is a fast-growing electronics company based in India, with operations in multiple countries. Despite their rapid growth, they relied heavily on Excel for data analysis, which proved inefficient, error-prone, and incapable of generating actionable insights.
+**AtliQ Hardwares** is a fast-growing electronics company based in India, with operations in multiple countries. Despite their rapid growth, they relied heavily on Excel for data analysis, which proved inefficient, error-prone, and incapable of generating actionable insights.
 
 Due to the lack of effective analytics, the company suffered major losses in the Latin America region. To address this, the senior leadership initiated a business intelligence project to build insightful dashboards using **Power BI** for better strategic decisions.
 
