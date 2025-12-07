@@ -171,5 +171,3 @@ Download the Power BI report file here:
 
 This project was developed as part of the [**Power BI Data Analytics Course**](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by **CodeBasics**.  
 Special thanks to the CodeBasics team for designing such a practical and business-oriented learning experience.
-
----
