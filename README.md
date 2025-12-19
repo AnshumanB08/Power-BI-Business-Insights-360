@@ -1,4 +1,4 @@
-# Business Insights 360 🚀📊
+# AtliQ Hardwares Business Insights 360 🚀📊
 
 Power BI analytics project for **AtliQ Hardwares**, a fictional consumer electronics company, to enable data-driven decision-making using modern BI tools and techniques.
 
